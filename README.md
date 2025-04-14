@@ -2,6 +2,14 @@
 
 [tampermonkey](https://www.tampermonkey.net/) script for the game [dodeca dragons](https://demonin.com/games/dodecaDragons/)
 
-its not perfect yet. will probably update the next time i play it
+## current
+
+use `script_new.js`
+
+![screen_new](screen_new.png)
+
+## deprecated
+
+use `script.js`
 
 ![screen](screen.png)
