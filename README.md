@@ -29,3 +29,7 @@ go to [tampermonkey](https://www.tampermonkey.net/), create a new script, copy p
 use `script.js`
 
 ![screen](screen.png)
+
+## testing
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/artoria-dev/dodeca-dragons-helper)](https://github.com/artoria-dev/dodeca-dragons-helper)
